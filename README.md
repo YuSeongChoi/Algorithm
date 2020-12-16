@@ -5,3 +5,5 @@
 
 - 백준 등급별 문제 풀이
  solved.ac
+
+- Swift5, Java8
